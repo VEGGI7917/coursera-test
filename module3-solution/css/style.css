@@ -1,0 +1,28 @@
+
+#header-nav{
+	border-radius: 0;
+}
+#brand{
+	font-size: 30px;
+	color:black;
+	font-weight: bold;
+}
+#maincontent h2{
+	font-weight: bold;
+}
+
+section{
+	background-color: gray;
+	padding: 10px;
+	color:black;
+	margin-bottom: 30px;
+}
+@media (max-width: 767px){
+	.container-fluid{
+		width: 70%;
+	}
+}
+
+
+
+
